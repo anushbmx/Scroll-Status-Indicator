@@ -7,4 +7,3 @@ This is a demo code to demonstrate "----Article Name ----" project made for arti
 
 Credits
 -------
-
