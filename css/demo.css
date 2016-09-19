@@ -1,0 +1,20 @@
+#scrollMeter-Wrap{
+	height: 2px;
+	width: 100%;
+	background: transparent;
+}
+
+#scrollMeter-Container{
+	left: 0;
+	top: 0;
+	height: 2px;
+	background: #ccc;
+	position: fixed;
+	width: 100%;
+}
+
+#scrollMeter{
+	height: 2px;
+	background: red;
+	width: 0%;
+}
