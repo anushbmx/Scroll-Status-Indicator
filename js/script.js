@@ -1,11 +1,13 @@
 $(function() {
-	var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height());
-	console.log(scrollPercent);
-	$('#scrollMeter').css("width", scrollPercent + '%');
+	ScrollIndicator();
 });
 
 $(window).scroll(function() {
-	var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height());
-	console.log(scrollPercent);
-	$('#scrollMeter').css("width", scrollPercent + '%');
+	ScrollIndicator()
 });
+
+
+function ScrollIndicator(){
+	var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height());
+	$('#scrollMeter').css("width", scrollPercent + '%');1
+}
