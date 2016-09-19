@@ -1,9 +1,9 @@
-----Article Name ----
+Scroll Status Indicator 
 ================
 
-----Article Name ---- 
+Scroll Status Indicator  
 
-This is a demo code to demonstrate "----Article Name ----" project made for article on Techstream ----Article Link----
+This is a demo code to demonstrate "Scroll Status Indicator " project made for article on Techstream http://techstream.org/Web-Development/Scroll-Status-Indicator
 
 Credits
 -------
